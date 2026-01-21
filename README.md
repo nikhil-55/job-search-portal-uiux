@@ -21,4 +21,4 @@ The goal of this project is to design a clean and user-friendly job portal that 
 - Figma (UI/UX Design & Prototyping)
 
 ## Figma Prototype Link
-PASTE_YOUR_FIGMA_LINK_HERE
+https://www.figma.com/proto/gg8QAILTCVngg7yPjixTux/job-search-portal?node-id=0-1&t=Zg3gD0Hzy6pJlGb9-1
